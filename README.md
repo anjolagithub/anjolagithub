@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Mitch
- Project Fairplay
+<!-- # Mitch
+ Project Fairplay -->
 # 💫 About Me:
 I am passionate about seeing software development as a field having close interaction with academics and professionals. This is my personal mission to become an influential leader in this field. I am always open to learn new things, speak up and communicate as much as possible.
 
