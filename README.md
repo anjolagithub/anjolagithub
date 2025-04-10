@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 **Building secure, scalable smart contracts and decentralized solutions.**
 
 
-# 💻 Tech Stack:![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  ![Ethers.js](https://img.shields.io/badge/Ethers.js-%232C2C2C.svg?style=for-the-badge&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=for-the-badge&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-%23293133.svg?style=for-the-badge&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-%23040818.svg?style=for-the-badge&logo=ipfs&logoColor=white)    ![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  [![Foundry](https://img.shields.io/badge/Foundry-%232D2D2D.svg?style=for-the-badge&logoColor=white)](https://getfoundry.sh/)
+# 💻 Tech Stack:![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)   ![IPFS](https://img.shields.io/badge/IPFS-%23040818.svg?style=for-the-badge&logo=ipfs&logoColor=white)    ![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  [![Foundry](https://img.shields.io/badge/Foundry-%232D2D2D.svg?style=for-the-badge&logoColor=white)](https://getfoundry.sh/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anjolagithub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
